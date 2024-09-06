@@ -3,7 +3,7 @@ below variables and update them with stuff about you. Yeah... I know... the clas
 everyone dreads at the start of the semester. Sorry, I just needed a filler for you guys to edit. */
 
 const yourName : String = "Kevin Lundin";
-let yourPronouns : String = "He/Hime";
+let yourPronouns : String = "He/Him";
 const yourMajor : String = "Computer Science BA";
 let classification : String = "junior";
 let oneExcite : String = "I love figuring out new languages and software, so I'm ecited for that!";
